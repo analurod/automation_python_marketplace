@@ -1,5 +1,7 @@
 # Automação de Publicação no Facebook Marketplace
 
+[English Version Here!](https://github.com/analurod/automation_python_marketplace/edit/main/englishversion.md)
+
 ## 📋 Descrição
 Este projeto tem como objetivo automatizar a criação de anúncios no Facebook Marketplace através de automação de interface utilizando as bibliotecas **PyAutoGUI**, **PyTesseract**, **Keyboard**, **Tkinter**, e **Webbrowser**.
 
